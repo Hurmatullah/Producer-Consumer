@@ -1,0 +1,30 @@
+C:\Users\horma\source\repos\ProducerConsumer\ProducerConsumer\bin\Debug\net7.0\ProducerConsumer.exe
+C:\Users\horma\source\repos\ProducerConsumer\ProducerConsumer\bin\Debug\net7.0\ProducerConsumer.deps.json
+C:\Users\horma\source\repos\ProducerConsumer\ProducerConsumer\bin\Debug\net7.0\ProducerConsumer.runtimeconfig.json
+C:\Users\horma\source\repos\ProducerConsumer\ProducerConsumer\bin\Debug\net7.0\ProducerConsumer.dll
+C:\Users\horma\source\repos\ProducerConsumer\ProducerConsumer\bin\Debug\net7.0\ProducerConsumer.pdb
+C:\Users\horma\source\repos\ProducerConsumer\ProducerConsumer\obj\Debug\net7.0\ProducerConsumer.csproj.AssemblyReference.cache
+C:\Users\horma\source\repos\ProducerConsumer\ProducerConsumer\obj\Debug\net7.0\ProducerConsumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\horma\source\repos\ProducerConsumer\ProducerConsumer\obj\Debug\net7.0\ProducerConsumer.AssemblyInfoInputs.cache
+C:\Users\horma\source\repos\ProducerConsumer\ProducerConsumer\obj\Debug\net7.0\ProducerConsumer.AssemblyInfo.cs
+C:\Users\horma\source\repos\ProducerConsumer\ProducerConsumer\obj\Debug\net7.0\ProducerConsumer.csproj.CoreCompileInputs.cache
+C:\Users\horma\source\repos\ProducerConsumer\ProducerConsumer\obj\Debug\net7.0\ProducerConsumer.dll
+C:\Users\horma\source\repos\ProducerConsumer\ProducerConsumer\obj\Debug\net7.0\refint\ProducerConsumer.dll
+C:\Users\horma\source\repos\ProducerConsumer\ProducerConsumer\obj\Debug\net7.0\ProducerConsumer.pdb
+C:\Users\horma\source\repos\ProducerConsumer\ProducerConsumer\obj\Debug\net7.0\ProducerConsumer.genruntimeconfig.cache
+C:\Users\horma\source\repos\ProducerConsumer\ProducerConsumer\obj\Debug\net7.0\ref\ProducerConsumer.dll
+C:\Users\horma\OneDrive\Desktop\New folder\spbu-mm-parallel-programming\KarimiHurmatullah\Task2\ProducerConsumer\ProducerConsumer\bin\Debug\net7.0\ProducerConsumer.exe
+C:\Users\horma\OneDrive\Desktop\New folder\spbu-mm-parallel-programming\KarimiHurmatullah\Task2\ProducerConsumer\ProducerConsumer\bin\Debug\net7.0\ProducerConsumer.deps.json
+C:\Users\horma\OneDrive\Desktop\New folder\spbu-mm-parallel-programming\KarimiHurmatullah\Task2\ProducerConsumer\ProducerConsumer\bin\Debug\net7.0\ProducerConsumer.runtimeconfig.json
+C:\Users\horma\OneDrive\Desktop\New folder\spbu-mm-parallel-programming\KarimiHurmatullah\Task2\ProducerConsumer\ProducerConsumer\bin\Debug\net7.0\ProducerConsumer.dll
+C:\Users\horma\OneDrive\Desktop\New folder\spbu-mm-parallel-programming\KarimiHurmatullah\Task2\ProducerConsumer\ProducerConsumer\bin\Debug\net7.0\ProducerConsumer.pdb
+C:\Users\horma\OneDrive\Desktop\New folder\spbu-mm-parallel-programming\KarimiHurmatullah\Task2\ProducerConsumer\ProducerConsumer\obj\Debug\net7.0\ProducerConsumer.csproj.AssemblyReference.cache
+C:\Users\horma\OneDrive\Desktop\New folder\spbu-mm-parallel-programming\KarimiHurmatullah\Task2\ProducerConsumer\ProducerConsumer\obj\Debug\net7.0\ProducerConsumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\horma\OneDrive\Desktop\New folder\spbu-mm-parallel-programming\KarimiHurmatullah\Task2\ProducerConsumer\ProducerConsumer\obj\Debug\net7.0\ProducerConsumer.AssemblyInfoInputs.cache
+C:\Users\horma\OneDrive\Desktop\New folder\spbu-mm-parallel-programming\KarimiHurmatullah\Task2\ProducerConsumer\ProducerConsumer\obj\Debug\net7.0\ProducerConsumer.AssemblyInfo.cs
+C:\Users\horma\OneDrive\Desktop\New folder\spbu-mm-parallel-programming\KarimiHurmatullah\Task2\ProducerConsumer\ProducerConsumer\obj\Debug\net7.0\ProducerConsumer.csproj.CoreCompileInputs.cache
+C:\Users\horma\OneDrive\Desktop\New folder\spbu-mm-parallel-programming\KarimiHurmatullah\Task2\ProducerConsumer\ProducerConsumer\obj\Debug\net7.0\ProducerConsumer.dll
+C:\Users\horma\OneDrive\Desktop\New folder\spbu-mm-parallel-programming\KarimiHurmatullah\Task2\ProducerConsumer\ProducerConsumer\obj\Debug\net7.0\refint\ProducerConsumer.dll
+C:\Users\horma\OneDrive\Desktop\New folder\spbu-mm-parallel-programming\KarimiHurmatullah\Task2\ProducerConsumer\ProducerConsumer\obj\Debug\net7.0\ProducerConsumer.pdb
+C:\Users\horma\OneDrive\Desktop\New folder\spbu-mm-parallel-programming\KarimiHurmatullah\Task2\ProducerConsumer\ProducerConsumer\obj\Debug\net7.0\ProducerConsumer.genruntimeconfig.cache
+C:\Users\horma\OneDrive\Desktop\New folder\spbu-mm-parallel-programming\KarimiHurmatullah\Task2\ProducerConsumer\ProducerConsumer\obj\Debug\net7.0\ref\ProducerConsumer.dll
